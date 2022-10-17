@@ -1,4 +1,9 @@
+zoning :
 https://www.figma.com/file/Z398WXBCz1YQxLCwG6x49x/zoning-boutique-de-bijoux?node-id=1%3A2
+wireframing :
 https://www.figma.com/file/FaQhctgxsiJRFoWze7gGYZ/wireframing-boutique-de-bijoux?node-id=1%3A2
+maquettage :
 https://www.figma.com/file/vs8yg3MtgnniB2aGCtyxEG/maquettage-boutique-de-bijoux?node-id=85%3A2
+trello :
+https://trello.com/invite/b/tAWQlaUY/ATTI5f8639b84283589ba73dfb5de1ef256bB404C210/brief-1
 
